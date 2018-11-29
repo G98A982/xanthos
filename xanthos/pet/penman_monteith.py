@@ -1,3 +1,4 @@
+from __future__ import division
 """
 Calculate Monthly PET using the Penman Monteith Method.
 
